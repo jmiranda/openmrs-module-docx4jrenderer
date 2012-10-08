@@ -6,9 +6,9 @@
 	<artifactId>docx4jrenderer</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Docx4j Renderer Module</name>
+	<name>Docx4j Renderer</name>
 	<description>Renders docx4j templates.</description>
-	<url>https://wiki.openmrs.org/display/docs/Docx4j+Renderer+Module+Module</url>
+	<url>https://wiki.openmrs.org/display/docs/Docx4j+Renderer+Module</url>
 	
 	<developers>
 		<developer>

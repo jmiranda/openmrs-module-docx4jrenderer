@@ -114,7 +114,7 @@ public class Docx4jRendererServiceImpl extends BaseOpenmrsService implements Doc
 	
 	
 	File getFile(String filename) { 
-		return new File("/home/jmiranda/git/docx4jrenderer/omod/src/main/resources/template.docx");
+		return new File("/home/jmiranda/git/openmrs-module-docx4jrenderer/omod/src/main/resources/template.docx");
 	}
 	
 	
